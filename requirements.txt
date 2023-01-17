@@ -1,0 +1,8 @@
+django
+djangorestframework
+djangorestframework-simplejwt
+djoser
+django-cors-headers
+django-cleanup
+django-concurrency
+drf-nested-routers
